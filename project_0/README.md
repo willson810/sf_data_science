@@ -4,7 +4,7 @@ From the [Skillfactory Data Scientist course](https://skillfactory.ru/courses/)
 ## Оглавление
 [1. Описание проекта](https://github.com/willson810/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кей решаем?](https://github.com/willson810/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/willson810/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)
 
 [3. Краткая информация о данных](https://github.com/willson810/sf_data_science/tree/main/project_0/README.md#)
 
