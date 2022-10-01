@@ -6,7 +6,7 @@ def random_predict(number:int=1) -> int:
         number (int, optional): The hidden number. Defaults to 1.
 
     Returns:
-        int: Number of attempts
+        int: Number of attempts.
     """
 
     count = 0
