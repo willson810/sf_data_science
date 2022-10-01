@@ -2,7 +2,6 @@
 Компьютер сам загадывает и сам угадывает число
 """
 
-from ftplib import error_temp
 import numpy as np
 import statistics
 
