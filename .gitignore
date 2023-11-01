@@ -130,4 +130,4 @@ dmypy.json
 
 # My ignore
 text/
-.csv
+*.csv
